@@ -1,1 +1,2 @@
-# Project-29-New
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
